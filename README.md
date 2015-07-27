@@ -1,2 +1,4 @@
 # java-synclab
-Implementação JAVA de simulador do fenômeno de Microbunching e emissão coerente em aceleradores de partículas
+A basic simulator written in Java for Microbunching Instability
+and Coherent Synchrotron Radiation component observerd in
+particle acelerators.
